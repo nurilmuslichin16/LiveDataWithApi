@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Live Data With API</string>
+    <string name="send">Kirim</string>
+    <string name="tulis_review_kamu_disini">Tulis Review Kamu Disini</string>
+    <string name="review">Review</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="title">Title</string>
+</resources>
